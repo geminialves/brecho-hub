@@ -90,7 +90,6 @@ A plataforma permite que usuários anunciem produtos usados, pesquisem itens dis
 * React
 * TypeScript
 * Node.js
-* Google Gemini API
 * HTML5
 * CSS3
 * Git
